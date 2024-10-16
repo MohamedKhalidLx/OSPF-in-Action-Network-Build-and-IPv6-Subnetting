@@ -26,7 +26,7 @@ This project configures OSPF routing between multiple Cisco routers with dual-st
   - `172.16.10.4/30` (R2-R3 link)
 
 ### Addressing Table:
-Refer to the [Addressing Table](OSPF%20in%20Action-Network%20Build.pdf) for complete IP address assignments, or check the details below:
+Refer to the [Addressing Table and Objectives](OSPF%20in%20Action-Network%20Build.pdf) for complete IP address assignments, or check the details below:
 
 | **Device**        | **Interface**       | **IP Address**          | **Subnet Mask/Prefix** | **Description**              |
 |-------------------|---------------------|------------------------|-----------------------|-----------------------------|
@@ -46,10 +46,10 @@ Refer to the [Addressing Table](OSPF%20in%20Action-Network%20Build.pdf) for comp
 | **Management VLAN** | 100   | `192.168.100.0/29`  | Secure management access|
 
 ## Network Topology
-Refer to the [Topology Diagram](OSPF%20in%20Action-Network%20Build.pkt) for a visual representation of the lab setup.
+Refer to the [Topology](OSPF%20in%20Action-Network%20Build.pkt) for a visual representation of the lab setup.
 - **User**: admin
 - **Password**: 123
-- **Privilege level**: 12345
+- **Privilege level**: cisco123
 
 ## Configuration Files
 - **Router and Switch Configurations**: Find all configurations in the [Configuration File](Configuration%20File.txt).
