@@ -2,6 +2,8 @@
 
 ## Overview
 This project configures OSPF routing between multiple Cisco routers with dual-stack support (IPv4/IPv6) and subnetting. The configuration focuses on OSPF implementation, ensuring optimized routing between various network segments.
+![image](https://github.com/user-attachments/assets/cb955442-3475-4870-b721-d6d1194b49fe)
+
 
 ## Topology
 - **Subnets**: IPv4 and IPv6 dual-stack setup for efficient routing.
